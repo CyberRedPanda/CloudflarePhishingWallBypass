@@ -1,6 +1,5 @@
 ###################
 
-# Clearnet version (see other script for tor version)
 # This code allows you to programatically download files from websites which Cloudflare has blocked with a "This page has been flagged with phishing" wall.
 # Change the "link" and "link_to_get" variables in the "start_download function to the homepage and download links on a site which cloudflare has tagged with "phishing"
 # Prepend the homepage URL to the new_url variable
